@@ -1,0 +1,1 @@
+{"uuid":"24d9fe39-5cf7-4d93-a00c-8f91d7caf50b","name":"TestCases.HomePageTest.setUp","children":["fea71330-6ca1-4eda-9bc2-d3e5373bc263"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711991835754,"stop":1711991850574}],"afters":[],"start":1711991835753,"stop":1711991850574}
